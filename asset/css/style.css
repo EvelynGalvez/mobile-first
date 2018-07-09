@@ -1,0 +1,13 @@
+.caja {
+  border: 1px solid;
+  border-color: lightgray;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 4%;
+  padding: 1%;
+}
+
+.testimonios {
+  padding-top: 15%;
+  padding-bottom: 5%;
+}
